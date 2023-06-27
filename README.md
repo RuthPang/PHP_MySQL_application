@@ -3,7 +3,7 @@
   <li>本會員管理系統使用XAMPP(包含Apache、MySQL等的整合式網頁伺服器安裝包)</li>
   <li>XAMPP可至網路免費下載，可自行建構簡易的個人資料庫在本機裡</li>
   <li>安裝完成後，須設定MySQL的root密碼，才能以phpMyAdmin進入資料庫管理畫面</li>
-  <li>本系統為php表單結合資料庫的應用，用以管理會員帳號密碼、個人資料及偏好</li>
+  <li><b>本系統為php表單結合資料庫的應用，用以管理會員帳號密碼、個人資料及偏好</b></li>
 </ul>
 如下操作安裝同名資料庫，以順利執行本系統:
 <ol>
@@ -15,7 +15,7 @@
       <li>勾選 "建立與使用者同名的資料庫並授予所有權限。"</li>
     </ul>
   </li>
-  <li>於108321015 database新增一資料表 member:(可直接以匯入member.sql取代)
+  <li>於108321015 database新增一資料表 member:<b>(可直接以匯入member.sql取代)</b>
     <ul>
         <li>ID : tinyint(3) primary AUTO_INCREMENT</li>
         <li>Username : varchar(20) utf8mb4_unicode_ci</li>
