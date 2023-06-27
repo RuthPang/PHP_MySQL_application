@@ -1,0 +1,35 @@
+#cont {
+	text-align: center;
+	width: 800px;
+	margin: 20px auto;
+	border-radius: 30px;
+	background-color: #690;
+	padding: 30px;
+	color:ivory;
+	font-size: 14pt;
+	font-weight: bold;
+	line-height: 2;
+}
+table{
+	text-align:left;
+	width:200;
+	margin:auto;
+	padding:30px;
+	border:3px dashed darkgreen;
+	bborder-radius:30px;
+}
+
+td:nth-of-type(1){
+	color:black;
+	text-align: right;
+}
+
+input {
+	font-size: 14pt;
+	font-family: Times New Roman;
+}
+#btn:hover{
+	cursor:pointer;
+	font-weight:bold;
+	color:darkgreen;
+}

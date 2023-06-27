@@ -1,0 +1,23 @@
+#cont {
+	text-align: center;
+	width: 400px;
+	margin: 20px auto;
+	border-radius: 30px;
+	background-color: #690;
+	padding: 40px;
+	color:ivory;
+	font-size:14pt;
+	font-weight: bold;
+	line-height: 2;
+
+}
+
+input {
+	font-size: 14pt;
+	font-family: Times New Roman;
+}
+#btn:hover{
+	cursor:pointer;
+	font-weight:bold;
+	color:darkgreen;
+}
