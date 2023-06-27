@@ -5,6 +5,7 @@
   <li>安裝完成後，須設定MySQL的root密碼，才能以phpMyAdmin進入資料庫管理畫面</li>
   <li><b>本系統為php表單結合資料庫的應用，用以管理會員帳號密碼、個人資料及偏好</b></li>
 </ul>
+</br></br>
 如下操作安裝同名資料庫，以順利執行本系統:
 <ol>
   <li>從phpMyAdmin登入至MySQL</li>
